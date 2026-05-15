@@ -1,0 +1,13 @@
+node_modules/
+
+# Secrets — never commit; copy from `server/.env.example` / `frontend/.env.example`
+server/.env
+frontend/.env
+
+**/.env.local
+
+services/sign-inference/.venv/
+services/sign-inference/models/*.h5
+__pycache__/
+*.pyc
+.npm-cache/
