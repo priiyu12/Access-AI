@@ -2,7 +2,6 @@
 
 **AI-Powered Accessibility Platform**
 
-[![License](https://img.shields.io/badge/license-MIT-green)](#license)
 [![Node](https://img.shields.io/badge/node.js-server-339933)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-frontend-61dafb)](https://react.dev/)
 [![Python](https://img.shields.io/badge/python-sign--ml-3776AB)](https://www.python.org/)
